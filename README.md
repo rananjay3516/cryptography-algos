@@ -1,1 +1,1 @@
-Implementation of cryptography algorithms for Jupyter Notebook
+Implementation of standard cryptography algorithms for Jupyter Notebook
